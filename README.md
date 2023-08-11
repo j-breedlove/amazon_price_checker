@@ -11,8 +11,8 @@ This tool allows you to monitor the price of a product on Amazon and sends an em
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/j-breedlove/amazon_price_checker.git
+    cd amazon_price_checker
     ```
 
 2. **Install the required packages:**
